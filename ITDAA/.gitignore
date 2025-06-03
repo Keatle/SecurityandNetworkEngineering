@@ -1,0 +1,8 @@
+# Large data files
+ITDAA/project1/data/Github.db
+ITDAA/project1/output.txt
+ITDAA/project1/output.txt
+ITDAA/online_test1/src/AmazonPrime.csv
+
+# Model checkpoints
+ITDAA/project1/checkpoints/
